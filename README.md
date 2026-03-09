@@ -168,6 +168,6 @@ This project was built as a self-directed learning exercise to develop automatio
 
 ## 📬 Contact
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Your Name** — [LinkedIn]((https://www.linkedin.com/in/uddhav-rodge-1501b7274/)) · [GitHub]((https://github.com/urodge))
 
 *Built as a portfolio project while learning data engineering and automation.*
