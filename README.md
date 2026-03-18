@@ -70,7 +70,7 @@ dataflow-automation-hub/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/dataflow-automation-hub.git
+git clone https://github.com/urodge/dataflow-automation-hub.git
 cd dataflow-automation-hub
 ```
 
